@@ -1,0 +1,58 @@
+.brand {
+  margin-top: 8px;
+}
+
+.slider h3,
+.slider h5,
+.clients h2 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+}
+.sosmed {
+  box-shadow: -4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -4px 0px 5px 0px rgba(0, 0, 0, 0.75);
+  padding: 10px;
+}
+
+.bsi {
+  font-size: 20px;
+  font-weight: 500;
+}
+.org {
+  color: #fcba03;
+}
+
+.bsi-span,
+.span-prof,
+.desc-span,
+.bsi {
+  color: #5573fa;
+}
+
+.desc {
+  text-align: justify;
+}
+
+.list {
+  padding-left: 1rem;
+}
+
+.card {
+  height: 400px;
+}
+.proker {
+  margin-top: 10rem;
+}
+
+.parallax-container,
+.about,
+.proker,
+footer {
+  margin-top: 2rem;
+  padding-top: 5rem;
+}
+@media (max-width: 992px) {
+  .brand {
+    display: none;
+  }
+}
